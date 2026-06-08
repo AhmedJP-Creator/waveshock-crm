@@ -1,2 +1,2 @@
 # waveshock-crm
-Studio CRM
+Studio 
